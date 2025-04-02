@@ -1,4 +1,4 @@
-# Index-Fund-Portfolio-Optimization
+# Index Fund Portfolio Optimization
 Portfolio Optimization for NASDAQ-100: Balancing Tracking Accuracy and Sparsity
 
 This repository contains code and data for a portfolio optimization project aimed at constructing an optimized subset index fund that closely tracks the NASDAQ-100 index with minimal tracking error. The project uses a combination of Integer Programming (IP), Linear Programming (LP), and Mixed Integer Programming (MIP) techniques to select stocks and optimize portfolio weights.
